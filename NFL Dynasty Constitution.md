@@ -201,7 +201,7 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 ### FAAB Auctions ###
 - All add/drops are conducted via FAAB, throughout both the season and offseason. At the start of each league year in Week 17, every team is reset to $100 FAAB, which is their budget until the next season's Week 17.
 - $0 bids are allowed.
-- Tie bids are resolved using the MFL default: whoever submitted the bid first gets the player.
+- Tie bids are resolved using the MFL default: whoever first submitted the bid gets the player.
 
 ### Trades ###
 - Trades are automatically processed.
