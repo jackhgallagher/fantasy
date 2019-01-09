@@ -13,6 +13,7 @@
 - [Rookie/FA Draft](#rookie-fa-draft)
   - [Draft](#draft)
   - [Future Pick Trading](#future-pick-trading)
+- [Taxi Squard](#taxi-squad)
 - [Divisions](#divisions)
 - [Schedule](#schedule)
   - [Weeks 1-13: Regular Season](#weeks-1-13---regular-season)
