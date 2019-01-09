@@ -1,222 +1,287 @@
-# (League Name Here) Dynasty League Constitution #
+# NFL Dynasty League Constitution #
 ## Table of Contents
 
-- [League Governence](#section-i---league-governence)
-   - [Commissioner](#league-commissioner)
-   - [Co-Commissioners](#co-commissioners)
-   - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
-- [League Dues](#section-ii---league-dues)
-- [Payout](#section-iii---payout)
-- [Rosters](#section-iv---rosters)
-- [Free Agency & Trading](#section-v---free-agency--trading)
-  - [Free Agency](#free-agency)
-  - [Trading](#trades)
-- [Startup Draft](#section-vi---startup-draft)
-- [Rookie Draft](#section-vii---rookie-draft)
-- [Divisions & Schedule](#section-viii---divisions--schedule)
-   - [Divisions](#divisions)
-   - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-ix---playoffs)
-   - [Championship](#championship-bracket)
-   - [Consolation](#consolation-bracket)
-- [Scoring](#section-x---scoring)
-<br>
-<br>
-
-## __Section I - League Governence__ ##
-
-### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
-
-> 3LI@ManningFace.com
-
-<br>
-
-### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
-
-> OBJesus@onehandcatches.com 
+- [Communication](#communication)
+  - [Commissioner](#commissioner)
+  - [Site](#site)
+  - [Chat](#chat)
+- [Money](#money)
+  - [Fees](#fees)
+  - [Payouts](#payouts)
+- [Basic Rules](#basic-rules)
+- [League Calendar](#league-calendar)
+- [Rookie/FA Draft](#rookie/fa-draft)
+  - [Draft](#draft)
+  - [Future Pick Trading](#future-pick-trading)
+- [Divisions](#divisions)
+- [Schedule](#schedule)
+  - [Weeks 1-13: Regular Season](#weeks-1-13:-regular-season)
+  - [Weeks 14-16: Playoffs](#weeks-14-16:-playoffs)
+    - [Playoff Seeding](#playoff-seeding)
+    - [Week 14](#week-14)
+    - [Week 15](#week-15)
+    - [Week 16](#week-16)
+    - [Playoff Transactions](#playoff-transactions)
+  - [Week 17](#week-17)
+- [Transactions](#transactions)
+  - [FAAB Auctions](#FAAB-auctions)
+  - [Trades](#trades)
+- [Lineups](#lineups)
+  - [Starting Lineup](#starting-lineup)
+  - [Roster limits](#roster-limits)
+  - [Developmental (Devy) Player](#developmental-%28devy%29-player)
+- [Scoring](#scoring)
 
 <br>
-
-__Saquan Barkley__
-> (800) 605-3369
-
-> TheQuadfather@demthighs.com
-
 <br>
 
-### Commissioner Site Powers ###
-The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
-<br>
-### Co-Commissioner Site Powers ###
-The Co-Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioners can attend to any urgent needs from league members.
-<br>
-### Co-Commissioner Appointment ###
-The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
-<br>
-### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
-<br>
-### Rule Changes ###
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
-<br>
-### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
+## __Communication__ ##
+
+### Commissioner ###
+__Jack Gallagher__
+
+> jackgal98@gmail.com
+
+> (609) 468-5982
+
+### Site ###
+
+> The league is hosted on MyFantasyLeague. The MFL system allows for communication through the chatbox and through home page modules that the commish will keep updated.
+
+### Chat ###
+
+> There will also be a GroupMe chat for everyone in the league. This is definitely the easiest way of communicating as a group and for direct messages. 
 
 <br><br>
 
-## __Section II - League Dues__ ##
+## __Money__ ##
 
-### Entry Fee ###
-- The Entry Fee for the league is $50 per team.
-- Must be paid at minimum 2 weeks before the draft (startup or rookie).
+### Fees ###
+> The league buy-in is $67. $60 goes towards the pot, the other $7 goes towards paying for the year of MFL.
 
-### Yearly Dues ###
+> All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the Rookie Draft.
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Dues must also be paid for any year a team trades draft picks in.
+### __Payouts__ ###
 
-### Penalties ###
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
-
-<br><br>
-
-## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
-
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+- 1st place: $300
+- 2nd place: $180
+- 3rd place: $60
+- Regular season high points: $50
+- Regular season weekly high score: $10/week
 
 <br><br>
 
-## __Section IV - Rosters__ ##
+## __Basic Rules__ ##
 
+> I'm definitely open to changing rules. 60% of the league must vote yes to any rule change, with the commish's vote being worth 1.5 votes.
 
-   Position | Starters | Maximum
-   -------- |--------- | -------
-   QB | 1 | No Limit
-   RB | 2 | No Limit
-   WR | 3 | No Limit
-   TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
-   D/ST | 1 | No Limit
-   K | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 3 | No Limit
+> However, the following items cannot be changed, since they're an integral part of why I created this league in the summer of 2015:
+
+- 12 owners
+- IDP
+- 6 pt/Passing TD
+- PPR
+- Not using an auction
+- No trade veto system being put into place
 
 <br><br>
 
-## __Section V - Free Agency & Trading__ ##
+## __League Calendar__ ##
 
-### Free Agency ###
-
-- Each team will receive $100 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
-- Per transaction fee is $0
-- FAAB dollars are not tradeable
-- There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
-
-
-### Trades ###
-- Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
-- During the offseason trading is still allowed.
-- Trade deadline begins as soon as the first playoff game starts.
-- Draft picks up to 3 years in the future are tradable.
-- Teams must pay dues for any year they trade draft picks in.
-
-<br><br>
-
-## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
-- Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
-- Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
-
-<br><br>
-
-## __Section VII - Rookie Draft__ ##
-
-### Rookie Draft Order ###
-- The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
-
-### Rookie Draft Settings ###
-- There will be 4 rounds of the rookie draft.
-- The rookie draft will take place the day immediately following the completion of the NFL draft.
-- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
-- Trading draft picks is allowed during the rookie draft
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
-
-__Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
-
-<br><br>
-
-## __Section VIII - Divisions & Schedule__ ##
-
-### Divisions ###
-
-- There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
-- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
-
-### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
-- The rest of the matches will be randomly determined at the beginning of the season.
-- Playoffs begin week 14 with the championship game occuring week 16.
-
-<br><br>
-
-## __Section IX - Playoffs__ ##
-
-### Championship Bracket ###
-- The two teams with the best regular season records will be assigned to the top two seeds.
-- The next three teams will be assigned their playoff seeding spot based on regular season record.
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
-
-### Consolation Bracket ###
-- Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
-- The consolation bracket has no bearing on draft order.
-
-<br><br>
-
-## __Section X - Scoring__ ##
+> The league year begins the Tuesday after Week 16.
 
 <table>
-    <tr>
+  <tr>
+    <th>Segment of the Year</th>
+    <th>Waiver description</th>
+  </tr>
+  <tr>
+    <td>Week 17<br>-<br>Super Bowl</td>
+    <td>Weekly FAAB auctions processed every Wednesday morning</td>
+  </tr>
+  <tr>
+    <td>Super Bowl<br>-<br>NFL Draft</td>
+    <td>Bi-weekly FAAB auctions processed every other Wednesday morning</td>
+  </tr>
+  <tr>
+    <td>NFL Draft<br>-<br>end of Rookie Draft</td>
+    <td>No acquisitions allowed. Roster limits completely relaxed</td>
+  </tr>
+  <tr>
+    <td>end of Rookie Draft<br>-<br>end of July</td>
+    <td>Bi-weekly FAAB auctions processed every other Wednesday morning</td>
+  </tr>
+  <tr>
+    <td>August<br>-<br>Tuesday prior to Week 1</td>
+    <td>Weekly FAAB auctions processed every Wednesday morning</td>
+  </tr>
+  <tr>
+    <td>Week 1<br>-<br>Week 16</td>
+    <td>Weekly FAAB auctions processed every:<br>Wednesday morning<br>Saturday morning<br>Sunday noon</td>
+  </tr>
+</table>
+
+<br><br>
+
+## __Rookie/FA Draft__ ##
+
+### Draft ### 
+
+- Each year, sometime in the month of May, we will hold a 7-round rookie draft on MFL.
+- The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-13 from the previous season, in ascending order. All teams who did not place 1st, 2nd, 3rd are ranked by PP, regardless of if they made the playoffs.
+- The 10th/11th/12th picks will be given to the 3rd/2nd/1st place finishers, respectively.
+- All players in the NFL not on rosters are eligible to be picked, as are devys.
+- Roster limits are completely relaxed during the rookie draft, in order to make it easier to just draft and not have to worry about having to cut a player for every pick.
+- Any clear abuse of this rule will be reversed and the owner scorned by the commish.
+- In the week after the rookie draft, everyone must cut back down to the normal 45 players.
+
+<br><br>
+
+### Future Pick Trading ###
+- Only picks up to 2 years in the future are able to be traded, i.e. in the year 2019, picks thru the 2021 rookie draft are able to be traded.
+- Trading future 1st or 2nd round picks requires the owner to pre-pay $35 for each year they lose a 1st or 2nd round pick. This rule is in place to prevent selling off one's future and then abandoning the league.
+
+<br><br>
+
+## __Divisions__ ##
+
+- There will be 2 divisions, each with 6 teams.
+- Every year, the divisions will be shuffled, with teams with an odd pick number in the rookie draft order in one divisons, even picks in the other.
+
+<br><br>
+
+## __Schedule__ ##
+
+### Weeks 1-13: Regular Season ###
+
+- Every week, each team plays one other team.
+- Each team plays every other team once, and two other teams twice.
+
+### Weeks 14-16: Playoffs ###
+
+#### Playoff Seeeding ####
+
+- Seed 1: Division winner with highest record (total points as tiebreaker)
+- Seed 2: Other division winner
+- Seed 3: Remaining team with highest record (total points as tiebreaker)
+- Seed 4: Remaining team with 2nd-highest record
+- Seed 5: Remaining team with 3rd-highest record
+- Seed 6: Remaining team with most points scored (record as tiebreaker)
+
+#### Week 14 ####
+
+- Seeds 1 and 2 receive a bye.
+- Seed 3 plays Seed 6.
+- Seed 4 plays Seed 5. 
+
+#### Week 15 ####
+
+- Seed 1 plays the worst remaining seed.
+- Seed 2 plays the best remaining seed.
+
+#### Week 16 ####
+
+- The winners of the two Week 15 matchups play for the championship.
+- The losers of the two Week 15 matchups play for 3rd place.
+
+#### Playoff Transactions ####
+
+- FAAB pickups are open to all teams throughout the playoffs, even those teams who did not make the playoffs.
+
+### Week 17 ###
+
+- No matchups.
+- Start of the next league year.
+
+<br><br>
+
+## __Transactions__ ##
+
+All transactions are free. Your roster must be legal by the start of Sunday's games.
+
+### FAAB Auctions ###
+- All add/drops are conducted via FAAB, throughout both the season and offseason. At the start of each league year in Week 17, every team is reset to $100 FAAB, which is their budget until the next season's Week 17.
+- $0 bids are allowed.
+- Tie bids are resolved using the MFL default: whoever submitted the bid first gets the player.
+
+### Trades ###
+- Trades are automatically processed.
+- Trades may only be vetoed by the commish for two reasons: (a) there exists a reasonable suspicion of collusion, or (b) it is so completely lopsided that it palpably disrupts the league's competition. 
+- In the event of (a) or (b), the commish will reach out to the owners to explain their thinking. If the commish still believes the trade to be worthy of veto, they will explain their rationale to the league, and barring pushback from non-involved teams, veto the trade.
+- There is no trade deadline, but extra discretion will be in force for trades occurring during or near the playoffs.
+
+## Lineups ##
+
+### Starting Lineup ###
+- 1 QB
+- 1 RB
+- 2 WR
+- 1 TE
+- 2 Flex RB/WR/TE
+- 1 K
+- 2 DL
+- 3 LB
+- 2 DB
+- 2 Flex DL/LB/DB
+
+### Roster Limits ###
+- Starters: 17 players (7 Off, 1 ST, 9 Def)
+- Bench: 28 players
+- No positional maximums
+- 1 bench player may be devy
+- 4 IR spots, players must be listed as Out, on IR, or on PUP to be put on IR.
+
+### Developmental (Devy) Player ###
+- Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, pee-wee players, whatever you want)
+- Devys can only be picked in the rookie draft, and may only be drafted by teams without a devy already on their roster.
+- Once drafted into the NFL, a devy is added to a team's "real" roster.
+
+<br><br>
+
+## __Scoring__ ##
+
+<table>
+  <tr>
     <td>Passing</td>
-    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
-    </tr>
-     <tr>
-        <td>Rushing</td>
-        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
-        <td>0.1<br>6<br>2</td>
-      </tr>
-      <tr>
-        <td>Receiving</td>
-        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>0.1<br>6<br>2<br>1</td>
-      </tr>
-      <tr>
-        <td>Miscellaneous </td>
-        <td>Total Fumbles Lost</td>
-        <td>-2</td>
-      </tr>
-      <tr>
-        <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
-      </tr>
+  </tr>
+  <tr>
+    <td>Yards<br>300 yard bonus<br>TD<br>Interception</td>
+    <td>.05 points/yd<br>3 points<br>6 points<br>-2 points</td>
+  </tr>
+  <tr>
+    <td>Rushing</td>
+  </tr>
+  <tr>
+    <td>Yards<br>100 yard bonus<br>TD</td>
+    <td>.1 points/yd<br>3 points<br>6 points</td>
+  </tr>
+  <tr>
+    <td>Receiving</td>
+  </tr>
+  <tr>
+    <td>Yards<br>100 yard bonus<br>TD<br>Reception</td>
+    <td>.1 points/yd<br>3 points<br>6 points<br>1 point</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous Offense</td>
+  </tr>
+  <tr>
+    <td>All other TDs<br>Fumble lost<br>2-point conversion</td>
+    <td>6 points<br>-2 points<br>2 points</td>
+  </tr>
+  <tr>
+    <td>Special Teams</td>
+  </tr>
+  <tr>
+    <td>All TDs<br>Kick return yards<br>Punt return yards</td>
+    <td>6 points<br>.05 points/yd<br>.05 points/yd</td>
+  </tr>
+    <tr>
+    <td>Kicking</td>
+  </tr>
+  <tr>
+    <td>Extra points<br>Field goals</td>
+    <td>1 point<br>3 points, plus .1 pt per yard past 30</td>
+  </tr>
     </table>
 
