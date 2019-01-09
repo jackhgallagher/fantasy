@@ -10,7 +10,7 @@
   - [Payouts](#payouts)
 - [Basic Rules](#basic-rules)
 - [League Calendar](#league-calendar)
-- [Rookie/FA Draft](#rookie/fa-draft)
+- [Rookie/FA Draft](#rookie-fa-draft)
   - [Draft](#draft)
   - [Future Pick Trading](#future-pick-trading)
 - [Divisions](#divisions)
@@ -29,7 +29,7 @@
 - [Lineups](#lineups)
   - [Starting Lineup](#starting-lineup)
   - [Roster limits](#roster-limits)
-  - [Developmental (Devy) Player](#developmental-%28devy%29-player)
+  - [Developmental (Devy) Player](#developmental-\(Devy\)-player)
 - [Scoring](#scoring)
 
 ## __Communication__ ##
@@ -113,7 +113,7 @@
   </tr>
 </table>
 
-## __Rookie/FA Draft__ ##
+## __Rookie-FA Draft__ ##
 
 ### Draft ### 
 
