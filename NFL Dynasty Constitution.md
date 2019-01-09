@@ -58,6 +58,8 @@
 
 - All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the Rookie Draft.
 
+- A spreadsheet containing a summary of everyone's current balances [may be found here](https://docs.google.com/spreadsheets/d/1r5HpY153OTXROwGiH4KIZ-GTFk-uRxrDp8emFcNkj5o/).
+
 ### __Payouts__ ###
 
 - 1st place: $300
@@ -142,7 +144,7 @@
 - Must be locked in prior to the start of the regular season.
   - Thus, from the rookie draft thru the end of August, we will have 50-man rosters. After locking in taxi squad players, we will move to 45+5-man rosters.
 - No poaching
-- Players may be moved up to one's active roster at any time, but once a player has been on a team's active roster, he is no longer eligible to be demoted to the taxi squad.
+- Players may be moved up to one's active roster at any time, but once a player has been on a team's active roster, he is no longer eligible to be demoted to the taxi squad at any time in the future.
 
 ## __Divisions__ ##
 
