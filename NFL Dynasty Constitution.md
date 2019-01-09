@@ -15,8 +15,8 @@
   - [Future Pick Trading](#future-pick-trading)
 - [Divisions](#divisions)
 - [Schedule](#schedule)
-  - [Weeks 1-13: Regular Season](#weeks-1-13&#58-regular-season)
-  - [Weeks 14-16: Playoffs](#weeks-14-16&#58-playoffs)
+  - [Weeks 1-13: Regular Season](#weeks-1-13---regular-season)
+  - [Weeks 14-16: Playoffs](#weeks-14-16---playoffs)
     - [Playoff Seeding](#playoff-seeding)
     - [Week 14](#week-14)
     - [Week 15](#week-15)
@@ -136,14 +136,14 @@
 
 ## __Schedule__ ##
 
-### Weeks 1-13: Regular Season ###
+### Weeks 1-13 - Regular Season ###
 
 - Every week, each team plays one other team.
 - Each team plays every other team once, and two other teams twice.
 
-### Weeks 14-16: Playoffs ###
+### Weeks 14-16 - Playoffs ###
 
-#### Playoff Seeeding ####
+#### Playoff Seeding ####
 
 - Seed 1: Division winner with highest record (total points as tiebreaker)
 - Seed 2: Other division winner
@@ -251,5 +251,10 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
     <td>Extra points<br>Field goals</td>
     <td>1 point<br>3 points, plus .1 pt per yard past 30</td>
   </tr>
-    </table>
+  <tr>
+    <td>IDP</td>
+    <td>Assist<br>Tackle<br>Forced fumble<br>Blocked extra point<br>Tackle for loss<br>Pass defensed<br>Fumble recovery<br>Blocked field goal<br>Blocked punt<br>Sack<br>Interception<br>Safety<br>TD</td>
+    <td>.75<br>1.5<br>2<br>2<br>3<br>3<br>4<br>4<br>4<br>5<br>5<br>6<br>6</td>
+  </tr>
+</table>
 
