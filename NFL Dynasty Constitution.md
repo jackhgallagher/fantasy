@@ -29,7 +29,7 @@
 - [Lineups](#lineups)
   - [Starting Lineup](#starting-lineup)
   - [Roster limits](#roster-limits)
-  - [Developmental (Devy) Player](#developmental-\(Devy\)-player)
+  - [Developmental (Devy) Player](#devy)
 - [Scoring](#scoring)
 
 ## __Communication__ ##
@@ -213,7 +213,8 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 - 1 bench player may be a devy
 - 4 IR spots, players must be listed as Out, on IR, or on PUP to be put on IR.
 
-### Developmental (Devy) Player ###
+### Devy ###
+- A developmental player
 - Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, pee-wee players, whatever you want)
 - Devys can only be picked in the rookie draft, and may only be drafted by teams without a devy already on their roster.
 - Once drafted into the NFL, a devy is added to a team's "real" roster.
