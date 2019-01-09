@@ -133,7 +133,12 @@
 ## __Taxi Squad__ ##
 
 - 5-man taxi squad
-- Only rookies and devys are eligible to be placed on it
+- For 2019, only rookies and devys are eligible to be placed on it.
+- In later years, only rookies, devys, and players who were on your taxi squad for the entire prior season may be placed on it. 
+  - Example: 
+  - You pick *PlayerA* and *PlayerB* in the 6th and 7th rounds of the 2019 rookie draft, and place them both on your taxi squad come August. 
+  - In week 6, you decide to elevate *PlayerA* to your active roster, while *PlayerB* remains on the taxi squad through Week 17.
+  - For the 2020 season, *PlayerB* is eligible to be assigned to the taxi squad again, while *PlayerA* is not.
 - Must be locked in prior to the start of the regular season.
   - Thus, from the rookie draft thru the end of August, we will have 50-man rosters. After locking in taxi squad players, we will move to 45+5-man rosters.
 - No poaching
