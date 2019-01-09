@@ -67,7 +67,7 @@
 
 ## __Basic Rules__ ##
 
-- I'm definitely open to changing rules. 60% of the league must vote yes to any rule change, with the commish's vote being worth 1.5 votes.
+- I'm definitely open to changing rules. 7.5 votes are needed to pass any rule change, with the commish's vote being worth 1.5 votes.
 
 - However, the following items cannot be changed, since they're an integral part of why I created this league in the summer of 2015:
 
@@ -104,7 +104,7 @@
     <td>Bi-weekly FAAB auctions processed every other Wednesday morning</td>
   </tr>
   <tr>
-    <td>August<br>thru<br>Tuesday prior to Week 1</td>
+    <td>August<br>thru<br>Week 1</td>
     <td>Weekly FAAB auctions processed every Wednesday morning</td>
   </tr>
   <tr>
@@ -118,16 +118,25 @@
 ### Draft ### 
 
 - Each year, sometime in the month of May, we will hold a 7-round rookie draft on MFL.
-- The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-13 from the previous season, in ascending order. All teams who did not place 1st, 2nd, 3rd are ranked by PP, regardless of if they made the playoffs.
+- The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-13 from the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
 - The 10th/11th/12th picks will be given to the 3rd/2nd/1st place finishers, respectively.
 - All players in the NFL not on rosters are eligible to be picked, as are devys.
-- Roster limits are completely relaxed during the rookie draft, in order to make it easier to just draft and not have to worry about having to cut a player for every pick.
-- Any clear abuse of this rule will be reversed and the owner scorned by the commish.
-- In the week after the rookie draft, everyone must cut back down to the normal 45 players.
+- Roster limits are completely relaxed during the rookie draft, in order to make it easier to just draft and not have to worry about having to cut a player for every pick. 
+  - Any clear abuse of this rule will be reversed and the owner scorned by the commish.
+- In the week after the rookie draft, everyone must cut back down to the normal 45+5 players, even if they do not intend on making add/drops.
 
 ### Future Pick Trading ###
 - Only picks up to 2 years in the future are able to be traded, i.e. in the year 2019, picks thru the 2021 rookie draft are able to be traded.
 - Trading future 1st or 2nd round picks requires the owner to pre-pay $35 for each year they lose a 1st or 2nd round pick. This rule is in place to prevent selling off one's future and then abandoning the league.
+
+## __Taxi Squad__ ##
+
+- 5-man taxi squad
+- Only rookies and devys are eligible to be placed on it
+- Must be locked in prior to the start of the regular season.
+  - Thus, from the rookie draft thru the end of August, we will have 50-man rosters. After locking in taxi squad players, we will move to 45+5-man rosters.
+- No poaching
+- Players may be moved up to one's active roster at any time, but once a player has been on a team's active roster, he is no longer eligible to be demoted to the taxi squad.
 
 ## __Divisions__ ##
 
@@ -148,8 +157,8 @@
 - Seed 1: Division winner with highest record (total points as tiebreaker)
 - Seed 2: Other division winner
 - Seed 3: Remaining team with highest record (total points as tiebreaker)
-- Seed 4: Remaining team with 2nd-highest record
-- Seed 5: Remaining team with 3rd-highest record
+- Seed 4: Remaining team with 2nd-highest record (total points as tiebreaker)
+- Seed 5: Remaining team with 3rd-highest record (total points as tiebreaker)
 - Seed 6: Remaining team with most points scored (record as tiebreaker)
 
 #### Week 14 ####
@@ -209,14 +218,18 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 ### Roster Limits ###
 - Starters: 17 players (7 Off, 1 ST, 9 Def)
 - Bench: 28 players
+- Taxi squad: 5 players
 - No positional maximums
-- 1 bench player may be a devy
+- 1 bench/taxi player may be a devy
 - 4 IR spots, players must be listed as Out, on IR, or on PUP to be put on IR.
+  - Once on IR, however, an owner may keep a player in an IR slot even after they are e.g. upgraded to Questionable. Whatever the system allows them to do, they may do. 
+  - For example, MFL allows you to submit a lineup with an IR violation, but does not allow you to perform an add/drop.
 
 ### Devy ###
 - A developmental player
-- Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, pee-wee players, whatever you want)
+- Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, pee-wee players, etc.)
 - Devys can only be picked in the rookie draft, and may only be drafted by teams without a devy already on their roster.
+- If the player is already loaded into the system, they can be drafted the same as any other player. If not, send a message to the commish, who can manually add the player and draft him to your team.
 - Once drafted into the NFL, a devy is added to a team's "real" roster.
 
 ## __Scoring__ ##
@@ -224,22 +237,22 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 <table>
   <tr>
     <td>Passing</td>
-    <td>Yards<br>300 yard bonus<br>TD<br>Interception</td>
+    <td>Yards<br>300 yard bonus<br>TDs<br>Interceptions</td>
     <td>.05 points/yd<br>3 points<br>6 points<br>-2 points</td>
   </tr>
   <tr>
     <td>Rushing</td>
-    <td>Yards<br>100 yard bonus<br>TD</td>
+    <td>Yards<br>100 yard bonus<br>TDs</td>
     <td>.1 points/yd<br>3 points<br>6 points</td>
   </tr>
   <tr>
     <td>Receiving</td>
-    <td>Yards<br>100 yard bonus<br>TD<br>Reception</td>
+    <td>Yards<br>100 yard bonus<br>TDs<br>Receptions</td>
     <td>.1 points/yd<br>3 points<br>6 points<br>1 point</td>
   </tr>
   <tr>
-    <td>Miscellaneous Offense</td>
-    <td>All other TDs<br>Fumble lost<br>2-point conversion</td>
+    <td>Miscellaneous<br>Offense</td>
+    <td>All other TDs<br>Fumbles lost<br>2-point conversions</td>
     <td>6 points<br>-2 points<br>2 points</td>
   </tr>
   <tr>
@@ -250,11 +263,11 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
   <tr>
     <td>Kicking</td>
     <td>Extra points<br>Field goals</td>
-    <td>1 point<br>3 points, plus .1 pt per yard past 30</td>
+    <td>1 point<br>3 points, plus .1 points per yard past 30</td>
   </tr>
   <tr>
     <td>IDP</td>
-    <td>Assist<br>Tackle<br>Forced fumble<br>Blocked extra point<br>Tackle for loss<br>Pass defensed<br>Fumble recovery<br>Blocked field goal<br>Blocked punt<br>Sack<br>Interception<br>Safety<br>TD</td>
+    <td>Assists<br>Tackles<br>Forced fumbles<br>Blocked extra points<br>Tackles for loss<br>Passes defensed<br>Fumble recoveries<br>Blocked field goals<br>Blocked punts<br>Sacks<br>Interceptions<br>Safeties<br>TDs</td>
     <td>.75<br>1.5<br>2<br>2<br>3<br>3<br>4<br>4<br>4<br>5<br>5<br>6<br>6</td>
   </tr>
 </table>
