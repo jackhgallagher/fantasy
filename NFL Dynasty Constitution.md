@@ -56,7 +56,7 @@
 
 ### Fees ###
 
-- The league buy-in is $67. $60 goes towards the pot, the other $7 goes towards paying for the year of MFL.
+- The league buy-in is $67. $60 goes towards the pot; the other $7 goes towards paying for the year of MFL.
 
 - All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the Rookie Draft.
 
@@ -179,8 +179,8 @@
 
 #### Week 15 ####
 
-- Seed 1 plays the worst remaining seed.
-- Seed 2 plays the best remaining seed.
+- Seed 1 plays the worse remaining seed.
+- Seed 2 plays the better remaining seed.
 
 #### Week 16 ####
 
@@ -233,7 +233,7 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 - 1 bench/taxi player may be a devy
 - 4 IR spots, players must be listed as Out, on IR, or on PUP to be put on IR.
   - Once on IR, however, an owner may keep a player in an IR slot even after they are e.g. upgraded to Questionable. Whatever the system allows them to do, they may do. 
-  - For example, MFL allows you to submit a lineup with an IR violation, but does not allow you to perform an add/drop.
+  - For example, MFL doesn't give you a score of 0 for an IR violation, but also doesn't allow you to submit a different lineup or perform an add/drop.
 
 ### Devy ###
 - A developmental player
@@ -241,6 +241,7 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 - Devys can only be picked in the rookie draft, and may only be drafted by teams without a devy already on their roster.
 - If the player is already loaded into the system, they can be drafted the same as any other player. If not, send a message to the commish, who can manually add the player and draft him to your team.
 - Once drafted into the NFL, a devy is added to a team's "real" roster.
+- It is possible for a team to own more than devy, since they may trade for another team's devy who was previously acquired in a rookie draft.
 
 ## __Scoring__ ##
 
