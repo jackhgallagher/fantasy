@@ -1,4 +1,6 @@
-# NFL Dynasty League Constitution #
+![](https://www67.myfantasyleague.com/fflnetdynamic2018/10130_league_logo.png)
+
+# League Constitution #
 ## Table of Contents
 
 - [Communication](#communication)
