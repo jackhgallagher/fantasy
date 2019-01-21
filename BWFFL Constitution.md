@@ -34,6 +34,7 @@
   - [Roster limits](#roster-limits)
 - [Scoring](#scoring)
 - [Ties](#ties)
+- [Rule Change History](#rule-change-history)
 
 ## __Communication__ ##
 
@@ -252,7 +253,7 @@ All transactions are $3 Your roster must be legal at all times.
   <tr>
     <td>Defense</td>
     <td>Sacks<br>Fumble recoveries<br>Interceptions<br>Safeties<br>Blocked FGs/XPs/punts<br>D/ST TD<br><br>Shutout<br>1-9 points allowed<br>10-19 points allowed<br>20-29 point allowed<br>30-39 points allowed<br>40+ points alloweds</td>
-    <td>1 points<br>2 points<br>2 points<br>2 points<br>2 points<br>6 points<br>10 points<br>7 points<br>3 points<br>0 points<br>-3 points<br>-7 points</td>
+    <td>1 points<br>2 points<br>2 points<br>2 points<br>2 points<br>6 points<br><br>10 points<br>7 points<br>3 points<br>0 points<br>-3 points<br>-7 points</td>
   </tr>
 </table>
 
@@ -260,3 +261,28 @@ All transactions are $3 Your roster must be legal at all times.
 
 - If two teams are tied at the end of the Monday Night Football game, the team with the higher Reserves total wins.
 - If the two teams are still tied, the team with the highest sum of Passing, Rushing, and Receiving yards wins, with the tie being manually broken by the commissioner.
+
+## Rule Change History ##
+
+### 2018 ###
+- Forced fumbles removed as a scoring category.
+- Higher-seed advantages in playoffs removed.
+- *Rejected: Cut roster size down to 15 players.*
+
+### 2017 ###
+- *None.*
+
+### 2016 ###
+- All-In Bowl discontinued.
+
+### 2015 ###
+- Confirmed that winner bring beer to the draft.
+- 6th playoff seed changed to be based on points, not record.
+- *Rejected: Remove higher-seed advantages in playoffs.*
+
+### 2014 ###
+- PPR scoring re-adopted, previous season had 2 pts for 5 rec, 1 pt thereafter.
+- Defensive yards removed as scoring category.
+- Yardage bonuses for 350, 400, etc. pass yds and 150, 200, etc. rush/rec yds removed.
+- *Rejected: Add an IDP Flex DL/LB/DB position.*
+- *Rejected: Remove scoring for kick/punt return yardage.*
