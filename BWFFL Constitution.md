@@ -35,6 +35,11 @@
 - [Scoring](#scoring)
 - [Ties](#ties)
 - [Rule Change History](#rule-change-history)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+  - [2014](#2014)
 
 ## __Communication__ ##
 
