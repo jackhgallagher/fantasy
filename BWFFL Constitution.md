@@ -1,4 +1,4 @@
-![](https://www.dropbox.com/s/eyelgipce0jq393/BWFFL.png)
+![](https://i.imgur.com/WiVaBX9.png)
 
 # League Constitution #
 ## Table of Contents
@@ -24,9 +24,10 @@
     - [Week 15](#week-15)
     - [Week 16](#week-16)
     - [Playoff Transactions](#playoff-transactions)
-  - [Weeks 14-16: Toilet Bowl](#weeks-14-16---Toilet Bowl)
+  - [Weeks 14-16: Toilet Bowl](#weeks-14-16---toilet-bowl)
 - [Transactions](#transactions)
-  - [FAAB Auctions](#FAAB-auctions)
+  - [Waivers](#waivers)
+  - [Add/Drops](#add/drops)
   - [Trades](#trades)
 - [Lineups](#lineups)
   - [Starting Lineup](#starting-lineup)
