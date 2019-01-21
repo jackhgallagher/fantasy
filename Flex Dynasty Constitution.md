@@ -77,7 +77,6 @@
 
   - 12 owners
   - Superflex
-  - 6 pt/Passing TD
   - No trade veto system being put into place
 
 ## __League Calendar__ ##
