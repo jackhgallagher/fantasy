@@ -27,7 +27,7 @@
   - [Weeks 14-16: Toilet Bowl](#weeks-14-16---toilet-bowl)
 - [Transactions](#transactions)
   - [Waivers](#waivers)
-  - [Add/Drops](#add/drops)
+  - [Add/Drops](#add-drops)
   - [Trades](#trades)
 - [Lineups](#lineups)
   - [Starting Lineup](#starting-lineup)
@@ -192,7 +192,7 @@ All transactions are $3 Your roster must be legal at all times.
 - Waivers also run daily for any players dropped that week (with a 1-day delay)
   - e.g. if a player is dropped on a Thursday, he may be picked up off waivers Saturday morning.
 
-### Add/Drops ###
+### Add-Drops ###
 - Add/Drops can be made any time after waivers run on Wednesday morning.
 
 ### Trades ###
