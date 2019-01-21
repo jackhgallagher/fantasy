@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td>Week 1<br>thru<br>Week 16</td>
-    <td>Weekly FAAB auctions processed every:<br>- Wednesday morning<br>- Saturday morning<br>- Sunday noon</td>
+    <td>Weekly FAAB auctions processed every:<br>- Wednesday morning<br>- Saturday morning<br>- Sunday noon ET</td>
   </tr>
 </table>
 
@@ -123,7 +123,7 @@
 ### Draft ### 
 
 - Each year, sometime in the month of May, we will hold a 7-round rookie draft on MFL.
-- The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-13 from the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
+- The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-13 of the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
 - The 10th/11th/12th picks will be given to the 3rd/2nd/1st place finishers, respectively.
 - All players in the NFL not on rosters are eligible to be picked, as are devys.
 - Roster limits are completely relaxed during the rookie draft, in order to make it easier to just draft and not have to worry about having to cut a player for every pick. 
@@ -151,7 +151,7 @@
 ## __Divisions__ ##
 
 - There will be 2 divisions, each with 6 teams.
-- Every year, the divisions will be shuffled, with teams with an odd pick number in the rookie draft order in one divisons, even picks in the other.
+- Every year, the divisions will be shuffled, with teams with an odd pick number in the rookie draft order in one divison, even picks in the other.
 
 ## __Schedule__ ##
 
@@ -164,12 +164,12 @@
 
 #### Playoff Seeding ####
 
-- Seed 1: Division winner with highest record (total points as tiebreaker)
+- Seed 1: Division winner with better record (total points as tiebreaker)
 - Seed 2: Other division winner
-- Seed 3: Remaining team with highest record (total points as tiebreaker)
-- Seed 4: Remaining team with 2nd-highest record (total points as tiebreaker)
-- Seed 5: Remaining team with 3rd-highest record (total points as tiebreaker)
-- Seed 6: Remaining team with most points scored (record as tiebreaker)
+- Seed 3: Remaining team with best record (total points as tiebreaker)
+- Seed 4: Next remaining team with best record (total points as tiebreaker)
+- Seed 5: Next remaining team with best record (total points as tiebreaker)
+- Seed 6: Next remaining team with most points scored (record as tiebreaker)
 
 #### Week 14 ####
 
@@ -203,6 +203,7 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 ### FAAB Auctions ###
 - All add/drops are conducted via FAAB, throughout both the season and offseason. At the start of each league year in Week 17, every team is reset to $100 FAAB, which is their budget until the next season's Week 17.
 - $0 bids are allowed.
+- FAAB dollars are not tradeable.
 - Tie bids are resolved using the MFL default: whoever first submitted the bid gets the player.
 
 ### Trades ###
@@ -230,14 +231,14 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 - Bench: 28 players
 - Taxi squad: 5 players
 - No positional maximums
-- 1 bench/taxi player may be a devy
-- 4 IR spots, players must be listed as Out, on IR, or on PUP to be put on IR.
+- Devy(s) take up bench/taxi roster slots
+- 4 IR slots, players must be listed as Out, on IR, or on PUP to be put on IR.
   - Once on IR, however, an owner may keep a player in an IR slot even after they are e.g. upgraded to Questionable. Whatever the system allows them to do, they may do. 
   - For example, MFL doesn't give you a score of 0 for an IR violation, but also doesn't allow you to submit a different lineup or perform an add/drop.
 
 ### Devy ###
 - A developmental player
-- Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, pee-wee players, etc.)
+- Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, whatever)
 - Devys can only be picked in the rookie draft, and may only be drafted by teams without a devy already on their roster.
 - If the player is already loaded into the system, they can be drafted the same as any other player. If not, send a message to the commish, who can manually add the player and draft him to your team.
 - Once drafted into the NFL, a devy is added to a team's "real" roster.
@@ -274,12 +275,12 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
   <tr>
     <td>Kicking</td>
     <td>Extra points<br>Field goals</td>
-    <td>1 point<br>3 points, plus .1 points per yard past 30</td>
+    <td>1 point<br>3 points, plus .1 points/yard past 30</td>
   </tr>
   <tr>
     <td>IDP</td>
     <td>Assists<br>Tackles<br>Forced fumbles<br>Blocked extra points<br>Tackles for loss<br>Passes defensed<br>Fumble recoveries<br>Blocked field goals<br>Blocked punts<br>Sacks<br>Interceptions<br>Safeties<br>TDs</td>
-    <td>.75<br>1.5<br>2<br>2<br>3<br>3<br>4<br>4<br>4<br>5<br>5<br>6<br>6</td>
+    <td>.75 points<br>1.5 points<br>2 points<br>2 points<br>3 points<br>3 points<br>4 points<br>4 points<br>4 points<br>5 points<br>5 points<br>6 points<br>6 points</td>
   </tr>
 </table>
 
