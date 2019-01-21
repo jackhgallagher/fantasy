@@ -133,8 +133,8 @@
 ## __Taxi Squad__ ##
 
 - 4-man taxi squad
-- For 2019, only rookies and devys are eligible to be placed on it.
-- In later years, only rookies, devys, and players who were on your taxi squad for the entire prior season may be placed on it. 
+- For 2019, only rookies are eligible to be placed on it.
+- In later years, only rookies and players who were on your taxi squad for the entire prior season may be placed on it. 
   - Example: 
   - You pick *PlayerA* and *PlayerB* in the 3rd and 4th rounds of the 2019 rookie draft, and place them both on your taxi squad come August. 
   - In week 6, you decide to elevate *PlayerA* to your active roster, while *PlayerB* remains on the taxi squad through Week 17.
