@@ -108,7 +108,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 ### College Player Draft ### 
 
 - Each year, sometime in the month of April, we will hold a 10-round linear rookie draft on Fantrax.
-- For the first season (where this draft will be held in late August/early September), the draft order will be set at random.
+- For the first season (where this draft will be held in late August/early September), the draft order will be set at random and the draft will be a snake draft instead of linear.
 - For the next two seasons, the draft order will be in reverse order of College Award money winnings.
 - Once our inaugural NFL season occurs in the fall of 2024:
     - The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-14 of the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
