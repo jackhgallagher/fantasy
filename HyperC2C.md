@@ -35,11 +35,11 @@
   - [Developmental (Devy) Player](#devy)
 - [Scoring](#scoring)
 
-## __Intro__##
+## __Intro__ ##
 
 Hyper C2C is a twist on the Campus2Canton fantasy ruleset. The focus of this league is to identify college talent prior to the distracting hivemind period of January - April. What sets this league apart from normal C2C? *The only way to own a player is to have picked him* **prior** *to his last year at college*. This league is a best-ball, no-trade devy league. If a player isn't picked up prior to their last year at college by any owner, none of us get to use him at the pro level!
 
-Payouts will be based around college football awards (Heisman, Biletnakoff, etc.) and, from year 4 onwards, a "normal" fantasy league. There will be no college fantasy football league--the goal is predicting NFL success.
+Payouts will be based around college football awards (Heisman, Biletnikoff, etc.) and, from year 4 onwards, a "normal" fantasy league. There will be no college fantasy football league--the goal is predicting NFL success.
 
 ## __Communication__ ##
 
@@ -61,7 +61,7 @@ Payouts will be based around college football awards (Heisman, Biletnakoff, etc.
 
 ### Fees ###
 
-- The league buy-in is $40 for college . $60 goes towards the pot; the other $7 goes towards paying for the year of MFL.
+- The league buy-in is $40 for college awards and $40 for the fantasy NFL season, beginning in 2024.
 
 - All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the Rookie Draft.
 
@@ -87,178 +87,65 @@ Payouts will be based around college football awards (Heisman, Biletnakoff, etc.
 | Kyle Trask | 737 | 14% | | $40 | 
 | Najee Harris | 216 | 4% | | $12 | 
 
-
-
-
+**NFL Fantasy (beginning 2024)**
 
 - 1st place: $300
-- 2nd place: $180
-- 3rd place: $60
-- Regular season high points: $50
-- Regular season weekly high score: $10/week
+- 2nd place: $140
+- 3rd place: $40
 
 ## __Basic Rules__ ##
 
+- Hyper C2C will focus on college scouting, thus honing our rookie draft skill for our other dynasty leagues!
+- No add/drops or trades any time! Your only way to get players is to have drafted them in the college player draft in April. 
+- Best ball! This league is designed to have all the work of managing your roster done in the spring, thus not adding yet another league we have to deal with wavier or start/sit decisions in-season. 
 - I'm definitely open to changing rules. 7.5 votes are needed to pass any rule change, with the commish's vote being worth 1.5 votes.
-
-- However, the following items cannot be changed, since they're an integral part of why I created this league in the summer of 2015:
-
-  - 12 owners
-  - IDP
-  - 6 pt/Passing TD
-  - PPR
-  - Not using an auction
-  - No trade veto system being put into place
 
 ## __League Calendar__ ##
 
-- The league year begins the Tuesday after Week 16.
+- Our annual, 10-round college player draft will be held each April.
+- The orphan supplemental draft, if necessary, will be held in May.
+- Once our NFL fantasy season kicks off in 2024, we will have a "normal" dynasty fantasy schedule:
 
-<table>
-  <tr>
-    <th>Segment of the Year</th>
-    <th>Waiver description</th>
-  </tr>
-  <tr>
-    <td>Week 17<br>thru<br>Super Bowl</td>
-    <td>Weekly FAAB auctions processed every Wednesday morning</td>
-  </tr>
-  <tr>
-    <td>Super Bowl<br>thru<br>NFL Draft</td>
-    <td>Bi-weekly FAAB auctions processed every other Wednesday morning</td>
-  </tr>
-  <tr>
-    <td>NFL Draft<br>thru<br>end of Rookie Draft</td>
-    <td>No acquisitions allowed. Roster limits completely relaxed</td>
-  </tr>
-  <tr>
-    <td>end of Rookie Draft<br>thru<br>end of July</td>
-    <td>Bi-weekly FAAB auctions processed every other Wednesday morning</td>
-  </tr>
-  <tr>
-    <td>August<br>thru<br>Week 1</td>
-    <td>Weekly FAAB auctions processed every Wednesday morning</td>
-  </tr>
-  <tr>
-    <td>Week 1<br>thru<br>Week 16</td>
-    <td>Weekly FAAB auctions processed every:<br>- Wednesday morning<br>- Saturday morning<br>- Sunday noon ET</td>
-  </tr>
-</table>
+| Segment | Item | Description |
+| ------ | ----------- | - |
+| Weeks 1-14 | Regular season | Each team plays each other once, plus playing both teams in their division twice. |
+| Week 15 | Playoff Quarterfinals | Seed #3 plays Seed #6, Seed #4 plays Seed #5 |
+| Week 16 | Playoff Semifinals | Seed #1 plays lowest remaining seed. Seed #2 plays highest remaining seed. |
+| Week 17 | Playoff Finals | Winners of two Week 16 games play in championship. Losers of two Week 16 games play in 3rd place consolation game. |
+| April | College Player Draft |
+| May | Supplemental Orphan Draft |
+| September 1 | Cut-down | All teams must cut down to 40 players (in years 4+) |
 
-## __Rookie-FA Draft__ ##
+## __College Player Draft__ ##
 
 ### Draft ### 
 
-- Each year, sometime in the month of May, we will hold a 7-round rookie draft on MFL.
-- The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-13 of the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
-- The 10th/11th/12th picks will be given to the 3rd/2nd/1st place finishers, respectively.
-- All players in the NFL not on rosters are eligible to be picked, as are devys.
-- Roster limits are completely relaxed during the rookie draft, in order to make it easier to just draft and not have to worry about having to cut a player for every pick. 
-  - Any clear abuse of this rule will be reversed and the owner scorned by the commish.
-- In the week after the rookie draft, everyone must cut back down to the normal 45+5 players, even if they do not intend on making add/drops.
-
-### Future Pick Trading ###
-- Only picks up to 2 years in the future are able to be traded, i.e. in the year 2019, picks thru the 2021 rookie draft are able to be traded.
-- Trading future 1st or 2nd round picks requires the owner to pre-pay $35 for each year they lose a 1st or 2nd round pick. This rule is in place to prevent selling off one's future and then abandoning the league.
-
-## __Taxi Squad__ ##
-
-- 5-man taxi squad
-- For 2019, only rookies and devys are eligible to be placed on it.
-- In later years, only rookies, devys, and players who were on your taxi squad for the entire prior season may be placed on it. 
-  - Example: 
-  - You pick *PlayerA* and *PlayerB* in the 6th and 7th rounds of the 2019 rookie draft, and place them both on your taxi squad come August. 
-  - In week 6, you decide to elevate *PlayerA* to your active roster, while *PlayerB* remains on the taxi squad through Week 17.
-  - For the 2020 season, *PlayerB* is eligible to be assigned to the taxi squad again, while *PlayerA* is not.
-- Must be locked in prior to the start of the regular season.
-  - Thus, from the rookie draft thru the end of August, we will have 50-man rosters. After locking in taxi squad players, we will move to 45+5-man rosters.
-- No poaching
-- Players may be moved up to one's active roster at any time, but once a player has been on a team's active roster, he is no longer eligible to be demoted to the taxi squad at any time in the future.
+- Each year, sometime in the month of April, we will hold a 10-round linear rookie draft on Fantrax.
+- For the first season (where this draft will be held in late August/early September), the draft order will be set at random.
+- For the next two seasons, the draft order will be in reverse order of College Award money winnings.
+- Once our inaugural NFL season occurs in the fall of 2024:
+    - The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-14 of the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
+    - The 10th/11th/12th picks will be given to the 3rd/2nd/1st place finishers, respectively.
+- All players who are currently enrolled in a college football program, *or* are a high school senior graduating that spring are eligible to be drafted.
 
 ## __Divisions__ ##
 
-- There will be 2 divisions, each with 6 teams.
-- Every year, the divisions will be shuffled, with teams with an odd pick number in the rookie draft order in one divison, even picks in the other.
-
-## __Schedule__ ##
-
-### Weeks 1-13 - Regular Season ###
-
-- Every week, each team plays one other team.
-- Each team plays every other team once, and two other teams twice.
-
-### Weeks 14-16 - Playoffs ###
-
-#### Playoff Seeding ####
-
-- Seed 1: Division winner with better record (total points as tiebreaker)
-- Seed 2: Other division winner
-- Seed 3: Remaining team with best record (total points as tiebreaker)
-- Seed 4: Next remaining team with best record (total points as tiebreaker)
-- Seed 5: Next remaining team with best record (total points as tiebreaker)
-- Seed 6: Next remaining team with most points scored (record as tiebreaker)
-
-#### Week 14 ####
-
-- Seeds 1 and 2 receive a bye.
-- Seed 3 plays Seed 6.
-- Seed 4 plays Seed 5. 
-
-#### Week 15 ####
-
-- Seed 1 plays the worse remaining seed.
-- Seed 2 plays the better remaining seed.
-
-#### Week 16 ####
-
-- The winners of the two Week 15 matchups play for the championship.
-- The losers of the two Week 15 matchups play for 3rd place.
-
-#### Playoff Transactions ####
-
-- FAAB pickups are open to all teams throughout the playoffs, even those teams who did not make the playoffs.
-
-### Week 17 ###
-
-- No matchups.
-- Start of the next league year.
-
-## __Transactions__ ##
-
-All transactions are free. Your roster must be legal by the start of Sunday's games.
-
-### FAAB Auctions ###
-- All add/drops are conducted via FAAB, throughout both the season and offseason. At the start of each league year in Week 17, every team is reset to $100 FAAB, which is their budget until the next season's Week 17.
-- $0 bids are allowed.
-- FAAB dollars are not tradeable.
-- Tie bids are resolved using the MFL default: whoever first submitted the bid gets the player.
-
-### Trades ###
-- Trades are automatically processed.
-- Trades may only be vetoed by the commish for two reasons: (a) there exists a reasonable suspicion of collusion, or (b) it is so completely lopsided that it palpably disrupts the league's competition. 
-- In the event of (a) or (b), the commish will reach out to the owners to explain their thinking. If the commish still believes the trade to be worthy of veto, they will explain their rationale to the league, and barring pushback from non-involved teams, veto the trade.
-- There is no trade deadline, but extra discretion will be in force for trades occurring during or near the playoffs.
+- There will be 4 divisions, each with 3 teams.
+- These are used only for scheduling purposes.
 
 ## Lineups ##
 
 ### Starting Lineup ###
 - 1 QB
 - 1 RB
-- 2 WR
+- 1 WR
 - 1 TE
-- 2 Flex RB/WR/TE
-- 1 K
-- 2 DL
-- 3 LB
-- 2 DB
-- 2 Flex DL/LB/DB
+- 4 Flex RB/WR/TE
 
 ### Roster Limits ###
-- Starters: 17 players (7 Off, 1 ST, 9 Def)
-- Bench: 28 players
-- Taxi squad: 5 players
+- Starters: 8 players
+- Bench: 32 players
 - No positional maximums
-- Devy(s) take up bench/taxi roster slots
 - 4 IR slots, players must be listed as Out, on IR, or on PUP to be put on IR.
   - Once on IR, however, an owner may keep a player in an IR slot even after they are e.g. upgraded to Questionable. Whatever the system allows them to do, they may do. 
   - For example, MFL doesn't give you a score of 0 for an IR violation, but also doesn't allow you to submit a different lineup or perform an add/drop.
@@ -276,18 +163,18 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
 <table>
   <tr>
     <td>Passing</td>
-    <td>Yards<br>300 yard bonus<br>TDs<br>Interceptions</td>
-    <td>.05 points/yd<br>3 points<br>6 points<br>-2 points</td>
+    <td>Yards<br>TDs<br>Interceptions</td>
+    <td>.05 points/yd<br>6 points<br>-2 points</td>
   </tr>
   <tr>
     <td>Rushing</td>
-    <td>Yards<br>100 yard bonus<br>TDs</td>
-    <td>.1 points/yd<br>3 points<br>6 points</td>
+    <td>Yards<br>TDs</td>
+    <td>.1 points/yd<br>6 points</td>
   </tr>
   <tr>
     <td>Receiving</td>
-    <td>Yards<br>100 yard bonus<br>TDs<br>Receptions</td>
-    <td>.1 points/yd<br>3 points<br>6 points<br>1 point</td>
+    <td>Yards<br>TDs<br>Receptions</td>
+    <td>.1 points/yd<br>6 points<br>1 point</td>
   </tr>
   <tr>
     <td>Miscellaneous<br>Offense</td>
@@ -298,16 +185,6 @@ All transactions are free. Your roster must be legal by the start of Sunday's ga
     <td>Special Teams</td>
     <td>All TDs<br>Kick return yards<br>Punt return yards</td>
     <td>6 points<br>.05 points/yd<br>.05 points/yd</td>
-  </tr>
-  <tr>
-    <td>Kicking</td>
-    <td>Extra points<br>Field goals</td>
-    <td>1 point<br>3 points, plus .1 points/yard past 30</td>
-  </tr>
-  <tr>
-    <td>IDP</td>
-    <td>Assists<br>Tackles<br>Forced fumbles<br>Blocked extra points<br>Tackles for loss<br>Passes defensed<br>Fumble recoveries<br>Blocked field goals<br>Blocked punts<br>Sacks<br>Interceptions<br>Safeties<br>TDs</td>
-    <td>.75 points<br>1.5 points<br>2 points<br>2 points<br>3 points<br>3 points<br>4 points<br>4 points<br>4 points<br>5 points<br>5 points<br>6 points<br>6 points</td>
   </tr>
 </table>
 
