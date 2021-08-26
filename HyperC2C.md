@@ -50,7 +50,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 - Half the league dues go to college awards, the other half for fantasy NFL season. Thus the league buy-in is $40 for 2021, 2022, and 2023, and $80 afterwards.
 
-- All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the College Player Draft.
+- All money collection will be handled by LeagueSafe [(link here)](https://www.leaguesafe.com/join/3997353). Annual league dues will be due the week before the College Player Draft.
 
 - A spreadsheet containing a summary of everyone's current balances [may be found here](https://docs.google.com/spreadsheets/d/1AlMoQlYpHqsF9wkgG6VJtAARKJvzUNCisVIh5fMaJZw/edit?usp=sharing).
 
