@@ -38,7 +38,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 ### Site ###
 
-- The league is hosted on Fantrax. This will be the first league I'm commishing on Fantrax, so if we find that MFL would be better for the NFL fantasy league in a couple years, we can discuss switching.
+- The league is hosted on Fantrax [(link here)](https://www.fantrax.com/fantasy/league/4wz0yacfksti190n/home). This will be the first league I'm commishing on Fantrax, so if we find that MFL would be better for the NFL fantasy league in a couple years, we can discuss switching.
 
 ### Chat ###
 
@@ -48,11 +48,11 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 ### Fees ###
 
-- The league buy-in is $40 for college awards and $40 for the fantasy NFL season, beginning in 2024.
+- Half the league dues go to college awards, the other half for fantasy NFL season. Thus the league buy-in is $40 for 2021, 2022, and 2023, and $80 afterwards.
 
-- All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the Rookie Draft.
+- All money collection will be handled by LeagueSafe. Annual league dues will be due the week before the College Player Draft.
 
-- A spreadsheet containing a summary of everyone's current balances [may be found here](https://docs.google.com/spreadsheets/d/1r5HpY153OTXROwGiH4KIZ-GTFk-uRxrDp8emFcNkj5o/).
+- A spreadsheet containing a summary of everyone's current balances [may be found here](https://docs.google.com/spreadsheets/d/1AlMoQlYpHqsF9wkgG6VJtAARKJvzUNCisVIh5fMaJZw/edit?usp=sharing).
 
 ### __Payouts__ ###
 
