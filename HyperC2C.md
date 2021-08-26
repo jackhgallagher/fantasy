@@ -116,9 +116,9 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 | May | Supplemental Orphan Draft |
 | September 1 | Cut-down | All teams must cut down to 40 players (in years 4+) |
 
-## __College Player Draft__ ##
+## __Drafts__ ##
 
-### Draft ### 
+### College Player Draft ### 
 
 - Each year, sometime in the month of April, we will hold a 10-round linear rookie draft on Fantrax.
 - For the first season (where this draft will be held in late August/early September), the draft order will be set at random.
@@ -127,6 +127,12 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
     - The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-14 of the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
     - The 10th/11th/12th picks will be given to the 3rd/2nd/1st place finishers, respectively.
 - All players who are currently enrolled in a college football program, *or* are a high school senior graduating that spring are eligible to be drafted.
+
+### Supplemental Orphan Draft ###
+
+- The Supplemental Orphan Draft, if necessary, will be held sometime in the month of May.
+- If a team is orphaned and the commissioner deems the team completely uncompetitive, the orphan can be given some number of supplemental draft picks for 1, 2, and/or 3 years in the future. The commissioner will consult openly with the rest of the league when making the compensation decision.
+- The player pool for the supplemental draft are NFL rookies who were not drafted as devys.
 
 ## __Divisions__ ##
 
@@ -149,14 +155,6 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 - 4 IR slots, players must be listed as Out, on IR, or on PUP to be put on IR.
   - Once on IR, however, an owner may keep a player in an IR slot even after they are e.g. upgraded to Questionable. Whatever the system allows them to do, they may do. 
   - For example, MFL doesn't give you a score of 0 for an IR violation, but also doesn't allow you to submit a different lineup or perform an add/drop.
-
-### Devy ###
-- A developmental player
-- Only requirement is that he is not in the NFL (college players, CFL players, high schoolers, whatever)
-- Devys can only be picked in the rookie draft, and may only be drafted by teams without a devy already on their roster.
-- If the player is already loaded into the system, they can be drafted the same as any other player. If not, send a message to the commish, who can manually add the player and draft him to your team.
-- Once drafted into the NFL, a devy is added to a team's "real" roster.
-- It is possible for a team to own more than devy, since they may trade for another team's devy who was previously acquired in a rookie draft.
 
 ## __Scoring__ ##
 
