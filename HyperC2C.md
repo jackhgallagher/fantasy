@@ -1,4 +1,4 @@
-![](https://www67.myfantasyleague.com/fflnetdynamic2018/10130_league_logo.png)
+![](https://i.imgur.com/zYhMm1g.png)
 
 # League Constitution #
 ## Table of Contents
