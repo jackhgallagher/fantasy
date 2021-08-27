@@ -20,6 +20,7 @@
 - [Lineups](#lineups)
   - [Starting Lineup](#starting-lineup)
   - [Roster Limits](#roster-limits)
+  - [Taxi Squads](#taxi-squads)
 - [Scoring](#scoring)
 
 ## __Intro__ ##
@@ -101,7 +102,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 | Week 17 | Playoff Finals | Winners of two Week 16 games play in championship. Losers of two Week 16 games play in 3rd place consolation game. |
 | April | College Player Draft |
 | May | Supplemental Orphan Draft |
-| September 1 | Cut-down | All teams must cut down to 40 players (in years 4+) |
+| September 1 | Cut-down | All teams must cut down to 40 NFL players on active roster (excl. taxi) (in years 4+) |
 
 ## __Drafts__ ##
 
@@ -136,12 +137,16 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 - 4 Flex RB/WR/TE
 
 ### Roster Limits ###
-- Starters: 8 players
-- Bench: 32 players
+- Starters: 8 NFL players
+- Bench: 32 NFL players
+- (players still in college do not count against roster limits)
 - No positional maximums
 - 4 IR slots, players must be listed as Out, on IR, or on PUP to be put on IR.
   - Once on IR, however, an owner may keep a player in an IR slot even after they are e.g. upgraded to Questionable. Whatever the system allows them to do, they may do. 
   - For example, MFL doesn't give you a score of 0 for an IR violation, but also doesn't allow you to submit a different lineup or perform an add/drop.
+
+### Taxi Squad ###
+- exact rules TBD
 
 ## __Scoring__ ##
 
