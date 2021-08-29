@@ -25,7 +25,7 @@
 
 ## __Intro__ ##
 
-Hyper C2C is a twist on the Campus2Canton fantasy ruleset. The focus of this league is to identify college talent prior to the distracting hivemind period of January - April. What sets this league apart from normal C2C? *The only way to own a player is to have picked him* **prior** *to his last year at college*. This league is a best-ball, no-trade devy league. If a player isn't picked up prior to their last year at college by any owner, none of us get to use him at the pro level!
+Hyper C2C is a twist on the Campus2Canton fantasy ruleset. The focus of this league is to identify college talent prior to the distracting hivemind period of January - April. What sets this league apart from normal C2C? *The only way to own a player is to have picked him* **prior** *to his last year at college*. This league is a best-ball, no-trade devy league--there's very little in-season commitment. If a player isn't picked up prior to their last year at college by any owner, none of us get to use him at the pro level!
 
 Payouts will be based around college football awards (Heisman, Biletnikoff, etc.) and, from year 4 onwards, a "normal" fantasy league. There will be no college fantasy football league--the goal is predicting NFL success.
 
@@ -35,11 +35,12 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 - Jack Gallagher
 - Email: jackgal98@gmail.com
-- Phone: (609) 468-5982
+- Philly (South Jersey, anyway) born and raised
 
 ### Site ###
 
-- The league is hosted on Fantrax [(link here)](https://www.fantrax.com/fantasy/league/4wz0yacfksti190n/home). This will be the first league I'm commishing on Fantrax, so if we find that MFL would be better for the NFL fantasy league in a couple years, we can discuss switching.
+- The NFL league will be hosted on MFL from 2024 onwards. The college league will be handled via [Google Sheets](https://docs.google.com/spreadsheets/d/1AlMoQlYpHqsF9wkgG6VJtAARKJvzUNCisVIh5fMaJZw/edit?usp=sharing).
+
 
 ### Chat ###
 
@@ -49,7 +50,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 ### Fees ###
 
-- Half the league dues go to college awards, the other half for fantasy NFL season. Thus the league buy-in is $40 for 2021, 2022, and 2023, and $80 afterwards.
+- Half the league dues go to college awards, the other half for fantasy NFL season. Thus the league buy-in is $40 for 2021, 2022, and 2023, and $86 afterwards ($6/yr going to MFL).
 
 - All money collection will be handled by LeagueSafe [(link here)](https://www.leaguesafe.com/join/3997353). Annual league dues will be due the week before the College Player Draft.
 
@@ -100,8 +101,8 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 | Week 15 | Playoff Quarterfinals | Seed #3 plays Seed #6, Seed #4 plays Seed #5 |
 | Week 16 | Playoff Semifinals | Seed #1 plays lowest remaining seed. Seed #2 plays highest remaining seed. |
 | Week 17 | Playoff Finals | Winners of two Week 16 games play in championship. Losers of two Week 16 games play in 3rd place consolation game. |
-| April | College Player Draft |
-| May | Supplemental Orphan Draft |
+| April | College Player Draft | [see section](#college-player-draft) |
+| May | Supplemental Orphan Draft | [see section](#supplemental-orphan-draft) |
 | September 1 | Cut-down | All teams must cut down to 40 NFL players on active roster (excl. taxi) (in years 4+) |
 
 ## __Drafts__ ##
@@ -130,11 +131,17 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 ## Lineups ##
 
 ### Starting Lineup ###
-- 1 QB
+
+**2024 lineup:**
+- 1 QB/RB/WR/TE flex
 - 1 RB
 - 1 WR
-- 1 TE
-- 4 Flex RB/WR/TE
+- 3 Flex RB/WR/TE
+
+To keep up with the added talent to the league, the roster will be upgraded as follows:
+- one Flex RB/WR/TE will be added every year until there are 7 RB/WR/TE flexes in 2028.
+- the superflex slot turns into a QB-only slot beginning in 2026.
+- a second superflex slot will be added in 2028. 
 
 ### Roster Limits ###
 - Starters: 8 NFL players
@@ -146,7 +153,10 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
   - For example, MFL doesn't give you a score of 0 for an IR violation, but also doesn't allow you to submit a different lineup or perform an add/drop.
 
 ### Taxi Squad ###
-- exact rules TBD
+- up to 10 NFL players with less than 2 years of NFL experience (defined relative to their draft date). 
+- you must select your taxi squad players by Sept 1 every year.
+- their points do not count towards potential point calculations. You are free to purposefully place better players on your taxi to limit your potential points.
+- taxi squad members can be activated to your active roster at any time, provided that there is an open slot. Once activated they are ineligible to be placed back on the taxi squad in the future.
 
 ## __Scoring__ ##
 
