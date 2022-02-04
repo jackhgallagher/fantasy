@@ -25,9 +25,9 @@
 
 ## __Intro__ ##
 
-Hyper C2C is a twist on the Campus2Canton fantasy ruleset. The focus of this league is to identify college talent prior to the distracting hivemind period of January - April. What sets this league apart from normal C2C? *The only way to own a player is to have picked him* **prior** *to his last year at college*. This league is a best-ball, no-trade devy league--there's very little in-season commitment. If a player isn't picked up prior to their last year at college by any owner, none of us get to use him at the pro level!
+Hyper C2C is a twist on the Campus2Canton fantasy ruleset. The focus of this league is to identify college talent prior to the distracting hivemind period of January - April. What sets this league apart from normal C2C? *The only way to own a player is to have picked him* **prior** *to his last year at college* (well, except for our inaugural draft, who wants to wait till 2025 to start playing actual NFL fantasy?). This league is a best-ball, no-trade devy league--there's very little in-season commitment. If a player isn't picked up prior to their last year at college by any owner, none of us get to use him at the pro level!
 
-Payouts will be based around college football awards (Heisman, Biletnikoff, etc.) and, from year 4 onwards, a "normal" fantasy league. There will be no college fantasy football league--the goal is predicting NFL success.
+Payouts will be based around college football awards (Heisman, Biletnikoff, etc.) and, from year 3 onwards, a "normal" fantasy league. There will be no college fantasy football league--the goal is predicting NFL success.
 
 ## __Communication__ ##
 
