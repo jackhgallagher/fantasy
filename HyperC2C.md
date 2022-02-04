@@ -50,7 +50,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 ### Fees ###
 
-- Half the league dues go to college awards, the other half for fantasy NFL season. Thus the league buy-in is $40 for 2021, 2022, and 2023, and $86 afterwards ($6/yr going to MFL).
+- Half the league dues go to college awards, the other half for the fantasy NFL season. Thus the league buy-in is $40 for 2021, 2022, and 2023, and $86 afterwards ($6/yr going to MFL).
 
 - All money collection will be handled by LeagueSafe [(link here)](https://www.leaguesafe.com/join/3997353). Annual league dues will be due the week before the College Player Draft.
 
@@ -109,8 +109,8 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 ### College Player Draft ### 
 
-- Each year, sometime in the month of April, we will hold a 10-round linear rookie draft on Fantrax.
-- For the first season (where this draft will be held in late August/early September), the draft order will be set at random and the draft will be a snake draft instead of linear.
+- Each year, sometime in the month of April, we will hold a 10-round linear rookie draft on Google Sheets.
+- In order to get the NFL season going by 2024, the inaugural draft will be a 20-round *snake* draft, **including the 2022 draft class of players eligible to be drafted**. Depending on when the league is filled, this draft will be held in February/March 2022.
 - For the next two seasons, the draft order will be in reverse order of College Award money winnings.
 - Once our inaugural NFL season occurs in the fall of 2024:
     - The order of the 1st thru 9th picks will be based on potential points scored (PP) during Weeks 1-14 of the previous season, in ascending order. All teams who did not place 1st, 2nd, or 3rd are ranked by PP, regardless of if they made the playoffs.
@@ -127,6 +127,7 @@ Payouts will be based around college football awards (Heisman, Biletnikoff, etc.
 
 - There will be 4 divisions, each with 3 teams.
 - These are used only for scheduling purposes.
+- They never reset, so as to cause some (small-stakes) rivalries!
 
 ## Lineups ##
 
